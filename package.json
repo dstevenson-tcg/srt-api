@@ -42,7 +42,7 @@
     "nodemailer": "^5.1.1",
     "pg": "^7.18.2",
     "random-words": "^1.1.1",
-    "sequelize": "^5.21.7",
+    "sequelize": "^5.22.5",
     "sequelize-cli": "^5.5.1",
     "snyk": "^1.360.0",
     "umzug": "^2.3.0",

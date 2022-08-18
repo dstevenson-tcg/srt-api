@@ -37,7 +37,7 @@
     "express-winston": "^3.4.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "ms": "^2.1.2",
     "nodemailer": "^5.1.1",
     "pg": "^7.18.2",
